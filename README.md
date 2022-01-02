@@ -1,4 +1,4 @@
-# CNNfTreesClassification
+# CNNTreesClassification
 For Depp ;eraning class at BHT I has implemented a model for tree bark classification using the dataset given at https://www.vicos.si/Downloads/TRUNK12 (just above 1GB)
 
 One way to solve this task is to use the features computed by different layers of a standard convolutional neural network, feel free to pick one here:
